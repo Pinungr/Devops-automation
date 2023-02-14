@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: Default
+  name: 'ubuntu-latest'
 
 variables:
   image_name: mcr.microsoft.com/businesscentral/sandbox
